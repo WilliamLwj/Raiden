@@ -1,0 +1,12 @@
+{
+ "mainSource": "src",
+ "testSource": "test",
+ "libraries": "",
+ "cases": [
+  {
+   "path": "test/GameTest.java",
+   "className": "GameTest"
+  }
+ ],
+ "wd": ""
+}
